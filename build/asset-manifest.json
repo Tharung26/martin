@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tharung26/martin.git/static/css/main.faa48f42.css",
+    "main.js": "/Tharung26/martin.git/static/js/main.8da0c2a5.js",
+    "static/js/787.0aabbba7.chunk.js": "/Tharung26/martin.git/static/js/787.0aabbba7.chunk.js",
+    "index.html": "/Tharung26/martin.git/index.html",
+    "main.faa48f42.css.map": "/Tharung26/martin.git/static/css/main.faa48f42.css.map",
+    "main.8da0c2a5.js.map": "/Tharung26/martin.git/static/js/main.8da0c2a5.js.map",
+    "787.0aabbba7.chunk.js.map": "/Tharung26/martin.git/static/js/787.0aabbba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa48f42.css",
+    "static/js/main.8da0c2a5.js"
+  ]
+}
